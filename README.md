@@ -6,4 +6,4 @@ Agora é a sua hora de brilhar! Crie uma solução que explore o conceito de Pad
 
 Dica: Além dos projetos/repositórios que criamos para este desafio, caso queira explorar novos padrões de projeto digite no Google: “java design patterns github” ou “java design patterns examples”. Com isso, você conhecerá novos padrões e implementações de referência que podem ajudá-lo a dominar esse tema!
 
-Foi criado um sistema de cadastro de usuários em API REST, com camada de segurança Spring Security JWT.
+Foi criado um sistema de cadastro de usuários com login e senha uutilizando API REST, com camada de segurança Spring Security JWT.
